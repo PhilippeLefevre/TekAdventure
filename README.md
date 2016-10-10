@@ -1,5 +1,20 @@
 # TekAdventure
-# Note : 12
+
+## Credit :
+- Sousa Victor
+   - Linkedin : https://fr.linkedin.com/in/victor-sousa-1abb64109
+    - Github : https://github.com/sousav
+- Gaëtan Léandre
+  - Linkedin : https://fr.linkedin.com/in/gaëtan-léandre-7a22b3107/fr
+  - Github : https://github.com/leandrg
+- Philippe Lefevre
+  - Linkedin : https://fr.linkedin.com/in/philippe-lefevre
+  - Github : https://github.com/PhilippeLefevre
+- Ethan Kerdelhue
+  - Linkedin : https://fr.linkedin.com/in/ethan-kerdelhue-758028109
+  - Github : https://github.com/ethanke
+
+## Note : 12
 - Préliminaires (2 / 2) : Tous le groupe est présent.
 Le projet rendu comporte une erreur dans le main ce qui lance une exception au lancement du projet et ne lui permet pas de fonctionner.
 La police du jeu ne gère également pas les accents entraînant un segfault lorsqu'un texte en comprend un.
